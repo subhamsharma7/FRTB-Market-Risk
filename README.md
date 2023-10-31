@@ -1,3 +1,5 @@
+# FRTB-Market-Risk
+Author - Subham Sharma
 FRTB Standardised Approach: 
 
 Introduction: In FRTB, there are two ways of calculating the market risk capital charge.
@@ -30,4 +32,4 @@ ii) Bucket number
     e) fall under either index bucket bucket number 12 or 13 (non-sector specific)
 
 iii) WSk = Risk weight x net sensitivities
-iv) Intrabucket capital charge is calculated for all three intrabucket correlation scenario.# FRTB-Market-Risk
+iv) Intrabucket capital charge is calculated for all three intrabucket correlation scenario.
